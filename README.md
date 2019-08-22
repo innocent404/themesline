@@ -5,7 +5,7 @@ Change your LINE theme using Termux software
     pkg update
     pkg install git
     pkg install python
-    git clone https://github.om/Noxturnix/tactheme
+    git clone https://github.com/innocent404/themesline
 
 # Usage
 
@@ -27,6 +27,3 @@ Go to the folder you clone. Enter `./tactheme` to see how to use the sctipt. Mak
 
 # Example
     ./tactheme https://store.line.me/themeshop/product/793460b3-7514-42e1-8a04-4bb23c57c077
-
-# Author
-[Noxturnix](https://github.com/Noxturnix) from Noxtian team
